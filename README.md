@@ -1,2 +1,1 @@
-# draft-lightgbm-blog
-to be deleted
+# Case Study on using LightGBM via python and julia

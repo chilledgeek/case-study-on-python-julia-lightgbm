@@ -1,1 +1,3 @@
 # Case Study on using LightGBM via python and julia
+- This repo contains supporting material for [this blog](https://www.blog.chilledgeek.com/posts/tech-categorising-short-text-descriptions/)
+- Most of the code is captured in these [two notebooks](https://github.com/chilledgeek/case-study-on-python-julia-lightgbm/tree/main/notebooks), which contains simple example code on how to use LightGBM in python and julia
